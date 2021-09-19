@@ -1,5 +1,0 @@
-server.port = 0
-spring.application.name = currency-conversion-service
-eureka.client.serviceUrl.defaultZone = http://localhost:8761/eureka
-spring.devtools.restart.enabled = true
-service.serviceId = currency-exchange-service

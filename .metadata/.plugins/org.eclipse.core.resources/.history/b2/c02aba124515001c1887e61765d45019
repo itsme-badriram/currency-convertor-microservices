@@ -1,8 +1,0 @@
-spring.datasource.url=jdbc:mysql://localhost:3306/currency_conversion
-spring.datasource.username=root
-
-
-spring.datasource.password=  ENC(Tomp3ZTtCAR6yJwyBBU6bIZBI+1jzFnK)
-logging.level.root=INFO
-jasypt.encryptor.password = secretKey
- 

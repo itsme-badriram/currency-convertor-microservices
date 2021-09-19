@@ -1,6 +1,0 @@
-spring.datasource.url=jdbc:mysql://localhost:3306/currency_conversion
-spring.datasource.username=roott
-spring.datasource.password=  vr241099
-logging.level.root=INFO
-
- 
