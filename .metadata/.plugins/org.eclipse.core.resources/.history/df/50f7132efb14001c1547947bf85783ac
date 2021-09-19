@@ -1,0 +1,4 @@
+server.port = 8888
+spring.application.name = spring-cloud-config-server
+
+spring.cloud.config.server.git.uri = file:///J:/Barclays%20ITP/Currency%20Exchange%20Project/git-localconfig-repo/

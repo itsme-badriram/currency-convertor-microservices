@@ -1,0 +1,35 @@
+package com.example.demo;
+
+import java.math.BigDecimal;
+
+
+
+public class ExchangeValue {
+	private Long id; 
+private String currency_from;
+private String currency_to;
+private BigDecimal conversion_multiple;
+public ExchangeValue() {
+	
+}
+public ExchangeValue(Long id, String from, String to, BigDecimal conversionMultiple) {
+	super();
+	this.id = id;
+	this.currency_from = from;
+	this.currency_to = to;
+	this.conversion_multiple = conversionMultiple;
+}
+public Long getId() {
+	return id;
+}
+public String getFrom() {
+	return currency_from;
+}
+public String getTo() {
+	return currency_to;
+}
+public BigDecimal getConversionMultiple() {
+	return conversion_multiple;
+}
+
+}
